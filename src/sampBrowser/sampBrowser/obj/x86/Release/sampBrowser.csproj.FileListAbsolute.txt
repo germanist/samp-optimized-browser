@@ -1,0 +1,9 @@
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\bin\Release\sampBrowser.exe
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\bin\Release\sampBrowser.pdb
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\sampBrowser.StartForm.resources
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\sampBrowser.Properties.Resources.resources
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\sampBrowser.exe
+C:\Users\trollin\documents\visual studio 2010\Projects\sampBrowser\sampBrowser\obj\x86\Release\sampBrowser.pdb
